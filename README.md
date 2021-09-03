@@ -1,6 +1,6 @@
 # Flutter e firebase Autenticação
 
-Este App é destinado ao estudo e aprofundamento na área. O objetivo é centralizar diversos tipos de conteúdos aprodundar na Autenticação de usuários utilizando o FireBase.
+Este App é destinado ao estudo e aprofundamento na área. O objetivo é aprodundar na Autenticação de usuários utilizando o FireBase.
 
 O projeto ainda encontra-se em fase de construção.
 
