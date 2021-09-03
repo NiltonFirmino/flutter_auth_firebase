@@ -1,16 +1,26 @@
-# flutter_auth_firebase
+# Flutter e firebase Autenticação
 
-Flutter and firebase authentication
+Este App é destinado ao estudo e aprofundamento na área. O objetivo é centralizar diversos tipos de conteúdos aprodundar na Autenticação de usuários utilizando o FireBase.
 
-## Getting Started
+O projeto ainda encontra-se em fase de construção.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ ## Desenvolvimento:
+ - [ ] Telas principais.
+ - [ ] HomePage.
+ - [ ] Aunteticação.
+ - [ ] Gerência de estado com Mobx.
+ - [ ] `shared_preferences`para salvar favoritos.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ 
+ ## Aprendizado
+* Dart `null safety`. 
+* Utilização de `setState`.
+* Utilização de Animações com `AnimatedContainer`.
+* Utilização de `ScrollController`.
+* Componentização.
+* Reforço em Orientação a Objetos.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ## Próximos passos
+* Firebase.
+* Utilização de *Splash Screen*.
