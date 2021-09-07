@@ -1,6 +1,6 @@
-abstract class Rotas {
+abstract class Routes {
   static const SPLASH = '/splash';
   static const LOGIN = '/login';
-  static const REGISTRAR = '/registro';
+  static const REGISTER = '/register';
   static const HOME = '/home';
 }

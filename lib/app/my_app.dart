@@ -6,18 +6,17 @@ import 'package:flutter_auth_firebase/app/ui/routes/routes.dart';
 
 
 
+
 class MyApp extends StatelessWidget {
-  const MyApp({ Key? key }) : super(key: key);
+  const MyApp({ Key ? key }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Auth Firebase',
       debugShowCheckedModeBanner: false,
-
-
-      initialRoute: Rotas.SPLASH,
-      routes: appRotas,
+      initialRoute: Routes.SPLASH,
+      routes: appRoutes,
     );
   }
 }
