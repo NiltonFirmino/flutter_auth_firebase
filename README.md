@@ -9,11 +9,10 @@ O projeto ainda encontra-se em fase de construção.
  - [x] Estrutura Clean
  - [ ] Telas principais.
  - [x] Utilização de *Splash Screen*.
- - [x] Melhorando qualidade e padronização do Código *Lints* 
+ - [x] Melhorando a qualidade e padronização do Código *Lints* 
  - [ ] HomePage.
  - [ ] Aunteticação.
- - [ ] Gerência de estado com Mobx.
- - [ ] `shared_preferences`para salvar favoritos.
+ - [ ] Gerência de estado com *A definir*.
 
  
  ## Aprendizado
@@ -26,3 +25,4 @@ O projeto ainda encontra-se em fase de construção.
 
  ## Próximos passos
 * Firebase.
+* Definir Gerencia de Estado.
