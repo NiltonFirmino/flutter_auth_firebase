@@ -9,7 +9,7 @@ O projeto ainda encontra-se em fase de construção.
  - [x] Estrutura Clean
  - [ ] Telas principais.
  - [x] Utilização de *Splash Screen*.
- - [x] Melhorando a qualidade e padronização do Código *Lints* 
+ - [x] Melhorando a qualidade e padronização do Código com *Package Lints* 
  - [ ] HomePage.
  - [ ] Aunteticação.
  - [ ] Gerência de estado com *A definir*.
