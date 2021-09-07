@@ -6,7 +6,10 @@ O projeto ainda encontra-se em fase de construção.
 
 
  ## Desenvolvimento:
+ - [x] Estrutura Clean
  - [ ] Telas principais.
+ - [x] Utilização de *Splash Screen*.
+ - [x] Melhorando qualidade e padronização do Código *Lints* 
  - [ ] HomePage.
  - [ ] Aunteticação.
  - [ ] Gerência de estado com Mobx.
@@ -23,4 +26,3 @@ O projeto ainda encontra-se em fase de construção.
 
  ## Próximos passos
 * Firebase.
-* Utilização de *Splash Screen*.
